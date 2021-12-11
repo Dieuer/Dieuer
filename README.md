@@ -4,7 +4,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/tommy-dieu-225003207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tommy-dieu-225003207" height="30" width="40" /></a>
 <a href="https://fb.com/tommy.dieu.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tommy.dieu.52" height="30" width="40" /></a>
-<a href="https://instagram.com/2mmy_dieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2mmy_dieu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/2mmy_dieu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2mmy_dieu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
